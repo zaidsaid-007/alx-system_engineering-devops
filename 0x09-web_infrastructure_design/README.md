@@ -1,5 +1,3 @@
 ## 0x09. Web infrastructure design
 
-This was a week-long project in which I began to research web infrastructure design. As I conducted research on different design principles, I whiteboarded diagrams of a developing web infrastructure. I started with a simple LAMP model and ended with a fully distributed, monitored, and secured system.
-
-Files in this project contain links to each respective whiteboard diagram.
+During a week-long project, I delved into the intricacies of web infrastructure design. Through extensive research on various design principles, I meticulously crafted diagrams on a whiteboard to illustrate the evolution of a web infrastructure. Beginning with a basic LAMP model, I gradually transitioned to designing a comprehensive system characterized by distribution, monitoring, and robust security measures. Each file in this project corresponds to a specific whiteboard diagram, providing a visual representation of the progressive stages of infrastructure development.
