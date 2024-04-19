@@ -1,0 +1,3 @@
+## 0x09. Web infrastructure design
+
+During a week-long project, I delved into the intricacies of web infrastructure design. Through extensive research on various design principles, I meticulously crafted diagrams on a whiteboard to illustrate the evolution of a web infrastructure. Beginning with a basic LAMP model, I gradually transitioned to designing a comprehensive system characterized by distribution, monitoring, and robust security measures. Each file in this project corresponds to a specific whiteboard diagram, providing a visual representation of the progressive stages of infrastructure development.
