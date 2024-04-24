@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
 # Create RSA key pair with 4096 bits
-ssh-keygen -b 4096 -t rsa -f school
+"Generating public/private rsa key pair..."
+ssh-keygen -b 4096 -f school -t rsa -P hello
 
 # Protect the private key with the passphrase 'betty'
-echo "Enter passphrase for school:"
+echo -n "Enter passphrase for school: "
 read -s passphrase
+echo
 ssh-keygen -p -f school <<< "$passphrase$passphrase"
