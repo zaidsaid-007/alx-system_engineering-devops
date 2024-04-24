@@ -2,8 +2,3 @@
 
 # Create RSA key pair with 4096 bits
 ssh-keygen -b 4096 -t rsa -f school
-
-# Protect the private key with the passphrase 'betty'
-echo "Enter passphrase for school:"
-read -s passphrase
-ssh-keygen -p -f school <<< "$passphrase$passphrase"
