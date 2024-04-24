@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-
 # Create RSA key pair with 4096 bits
 "Generating public/private rsa key pair..."
 ssh-keygen -b 4096 -f school -N betty
-
